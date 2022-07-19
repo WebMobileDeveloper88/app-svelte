@@ -1,4 +1,4 @@
-project = "app-svelte"
+project = "svelte-projekt"
 
 runner {
   enabled = true
