@@ -12,7 +12,7 @@ runner {
 app "app-svelte" {
   labels = {
     "service" = "app-svelte",
-    "env"     = "dev"
+    "env" = "dev"
   }
 
   build {
