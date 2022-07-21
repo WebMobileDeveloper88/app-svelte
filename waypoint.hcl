@@ -5,7 +5,7 @@ runner {
 
   data_source "git" {
     url  = "https://github.com/WebMobileDeveloper88/app-svelte.git"
-    path = "."
+    path = ""
   }
 }
 
